@@ -16,8 +16,6 @@ This repository contains a COVID-19 prediction model that leverages machine lear
 
 ### Usage:
 1. Clone the repository: 'https://github.com/Skillbasket/COVID-19_Data_Analysis.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the prediction model using Jupyter notebooks or utilize the API for programmatic access.
-4. Visualize the results to gain insights into COVID-19 trends and predictions.
+2. Visualize the results to gain insights into COVID-19 trends and predictions.
 
 
